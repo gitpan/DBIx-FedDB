@@ -1,0 +1,12 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/DBIx/FedDB.pm
+lib/DBIx/FedDB/Base.pm
+lib/DBIx/FedDB/Client.pm
+lib/DBIx/FedDB/Server.pm
+lib/DBIx/FedDB/Controller/FedDB.pm
+scripts/server.pp
+sql/feddb.sql
+t/00.load.t
